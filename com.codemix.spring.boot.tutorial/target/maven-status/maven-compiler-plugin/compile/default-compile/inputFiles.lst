@@ -1,0 +1,13 @@
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\security\WebSecurity.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\model\Role.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\repository\ITaskRepository.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\repository\IRoleRepository.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\controllers\UserController.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\security\JWTAuthorizationFilter.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\security\JWTAuthenticationFilter.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\model\User.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\controllers\TasksController.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\security\UserDetailsServiceImpl.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\Application.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\model\Task.java
+D:\eclipse-workspaces\MLA trunk\com.codemix.spring.boot.tutorial\src\main\java\com\codemix\spring\boot\tutorial\auth\repository\IUserRepository.java

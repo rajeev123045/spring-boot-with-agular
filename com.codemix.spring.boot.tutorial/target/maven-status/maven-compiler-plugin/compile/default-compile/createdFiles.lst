@@ -1,0 +1,13 @@
+com\codemix\spring\boot\tutorial\auth\repository\IRoleRepository.class
+com\codemix\spring\boot\tutorial\auth\model\Role.class
+com\codemix\spring\boot\tutorial\auth\repository\IUserRepository.class
+com\codemix\spring\boot\tutorial\auth\security\WebSecurity.class
+com\codemix\spring\boot\tutorial\auth\security\JWTAuthorizationFilter.class
+com\codemix\spring\boot\tutorial\auth\controllers\TasksController.class
+com\codemix\spring\boot\tutorial\auth\repository\ITaskRepository.class
+com\codemix\spring\boot\tutorial\auth\security\UserDetailsServiceImpl.class
+com\codemix\spring\boot\tutorial\auth\model\User.class
+com\codemix\spring\boot\tutorial\auth\controllers\UserController.class
+com\codemix\spring\boot\tutorial\auth\model\Task.class
+com\codemix\spring\boot\tutorial\auth\security\JWTAuthenticationFilter.class
+com\codemix\spring\boot\tutorial\Application.class
